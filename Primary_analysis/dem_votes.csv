@@ -7,11 +7,11 @@ California,,
 Colorado,0.404,0.589
 Connecticut,,
 Delaware,,
-Florida,,
+Florida,0.644,0.333
 Georgia,0.713,0.282
 Hawaii,,
 Idaho,,
-Illinois,,
+Illinois,0.505,0.487
 Indiana,,
 Iowa,0.499,0.496
 Kansas,0.323,0.677
@@ -23,7 +23,7 @@ Massachusetts,0.501,0.487
 Michigan,0.483,0.498
 Minnesota,0.384,0.616
 Mississippi,0.826,0.165
-Missouri,,
+Missouri,0.496,0.494
 Montana,,
 Nebraska,0.429,0.571
 Nevada,0.526,0.473
@@ -31,9 +31,9 @@ New Hampshire,0.38,0.604
 New Jersey,,
 New Mexico,,
 New York,,
-North Carolina,,
+North Carolina,0.546,0.408
 North Dakota,,
-Ohio,,
+Ohio,0.565,0.427
 Oklahoma,0.415,0.519
 Oregon,,
 Pennsylvania,,
@@ -50,8 +50,3 @@ West Virginia,,
 Wisconsin,,
 Wyoming,,
 Washington DC,,
-,,
-,,
-,,
-,,
-,,
